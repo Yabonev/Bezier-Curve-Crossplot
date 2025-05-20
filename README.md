@@ -11,3 +11,6 @@
 3. **ESC** : resets the canvas and resumes intercation with the canvas
 
 *--Actual implementation code with comments is in the **js** file--*
+
+## Additional algorithms
+A simple B-spline evaluator is available in **bsplineCode.js** which demonstrates a more complex curve computation based on the Cox–de Boor recursion formula.
